@@ -1,6 +1,7 @@
 # Lab 4
-Họ và tên: Trương Tất Quang Vinh
-MSSV: 22521683
+Họ và tên: Trương Tất Quang Vinh <br>
+MSSV: 22521683 <br>
+Dataset: https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-performance/data
 
 ## Structure
 ```
