@@ -26,12 +26,9 @@ lab-4_original
    ```
 
 2. **Install dependencies**:
-   Use the following command to install the required libraries:
-   ```
-   pip install -r requirements.txt
-   ```
-
-3. **Prepare the data**:
+   Socket, pandas
+   
+4. **Prepare the data**:
    Ensure that the `data/train.csv` file is present and contains the necessary training data.
 
 ## Usage
@@ -48,7 +45,7 @@ lab-4_original
    ```
 
 3. **Train the model**:
-   After the data has been sent and received (the received file is in 'Lab4/data/' folder), you can train the model by running:
+   After the data has been sent and received (the received file is in `Lab4/data/` folder), you can train the model by running:
    ```
    python model/train_model.py
    ```
